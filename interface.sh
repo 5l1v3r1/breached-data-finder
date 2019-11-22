@@ -45,7 +45,7 @@ off="\e[0m"
 
 clear
  echo -e "			$BCyan      		$UWhite Breached Data Searcher $off"; 
- echo -e "			$BGreen             Facebook - fb.com/mubassir1337 $off";
+ echo -e "			$BGreen             Facebook - fb.com/mubassir.py $off";
  echo -e "			$BGreen             Facebook - fb.com/officialharoonawan $BCyan $off"; 
  echo -e "			$BGreen             Github   - github.com/haroonawanofficial $off ";
  echo -e "			$BGreen             Coder    - Haroon Awan / mrharoonawan@gmail.com $off ";
